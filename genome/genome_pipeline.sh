@@ -61,3 +61,7 @@ do
 done
 
 rm binspreader_${SAMPLE}_bin*txt
+
+
+# end info
+echo 'Pipeline finished successfully!'
